@@ -65,3 +65,5 @@ Foi um projeto bem interessante, estava acostumado a retornar bastante JSON ent�
 maior de produção adicionei alguns itens básicos a mais a fim de melhor usabilidade e responsividade em outros dispositivos e resoluções.
 
 Tentei explicar a lógica e a explicação da minha forma de pensar, porém se houver alguma dúvida ou pergunta, só me chamar.
+
+https://www.figma.com/design/3x7sYDqjxm9J8s48cKEDPH/Teste-Upik?node-id=0-1&t=iEFP6BQabLsvovSw-1
