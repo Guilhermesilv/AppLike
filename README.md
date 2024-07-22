@@ -26,10 +26,12 @@ imagens todas estariam com o mesmo nome (600x400) não faria sentido deixar elas
 ![alt text](image.png)
 
 (foi usado o AXIOS por já possuir familiariedade e por ser mais explicito, mesmo sabendo que o fetch é nativo, mais amigavel, mais "humanizado" e mais fácil de entender)
+
 ![alt text](image-1.png)
 
 useEffect foi usado para realizar chamada da api
 Código a ser executado quando o efeito é disparado.
+
 ![alt text](image-4.png)
 
 Cria uma lista de promisses para buscar 5 imagens diferentes, o response para aguardar todas as promisses serem resolvidas e armazenar as respostas.
@@ -48,6 +50,7 @@ Foi criada 3 funções para serem disparadas.
 handleLike - onde ele percorre com o map e incrementa em +1 o numero de likes da imagem atual.
 handleDislike - onde ele percorre com o map e incrementa em +1 o numero de dislikes da imagem atual.
 e a handleIndexChange - onde atualiza o índice da imagem atualmente exibida.
+
 ![alt text](image-5.png)
 
 # Estilização
