@@ -11,6 +11,7 @@ Construido utilizando a Biblioteca React, NextJS (framework do react) e o Taillw
 
 ## Instrução de instalação
  Node 20.15.0
+ npm install para instalar as dependências
  npm install axios
  npm install react-responsive-carousel
 
@@ -35,6 +36,7 @@ Código a ser executado quando o efeito é disparado.
 ![alt text](image-4.png)
 
 Cria uma lista de promisses para buscar 5 imagens diferentes, o response para aguardar todas as promisses serem resolvidas e armazenar as respostas.
+
 ![alt text](image-2.png)
 
 InitialImages Cria um array de objetos ImageData com likes e dislikes inicializados em 0. SetImages atualiza o estado "images"
